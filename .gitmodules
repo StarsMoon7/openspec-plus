@@ -1,0 +1,9 @@
+[submodule "modules/openspec"]
+	path = modules/openspec
+	url = https://github.com/StarsMoon7/OpenSpec.git
+[submodule "modules/agent-skills"]
+	path = modules/agent-skills
+	url = https://github.com/StarsMoon7/agent-skills.git
+[submodule "modules/superpowers"]
+	path = modules/superpowers
+	url = https://github.com/StarsMoon7/superpowers.git
